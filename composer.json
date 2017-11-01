@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Palmtree\\WordPress\\Shortcode\\": "src"
+      "Palmtree\\WordPress\\Cleaner\\": "src"
     }
   }
 }

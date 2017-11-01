@@ -1,6 +1,6 @@
 <?php
 
-namespace Palmtree\WordPress;
+namespace Palmtree\WordPress\Cleaner;
 
 class EmojiDisabler
 {
